@@ -60,7 +60,7 @@ Users can view detailed information about each event and book tickets through th
 - Form validation
 - Booking confirmation message
 
-  ## Search and Filter
+ ## Search and Filter
 
 # The platform allows users to find events easily using:
 
@@ -69,7 +69,7 @@ Users can view detailed information about each event and book tickets through th
 - Date filter
 - Event type filter
 
-  ## Learning Outcomes
+## Learning Outcomes
 Through this project, I improved my skills in frontend development, responsive web design, UI/UX design, JavaScript functionality,
 DOM manipulation, dynamic content handling, search and filtering, form handling, validation, and modal-based user interactions.
 
